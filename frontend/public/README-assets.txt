@@ -1,0 +1,1 @@
+Local SVG illustrations are included so the project does not depend on stock images.
